@@ -38,7 +38,7 @@ indices = {
 etfs = {
     "iShares AEX UCITS ETF": ("IAEX.AS", "EUR"), # Amsterdam
     "iShares Core S&P 500 UCITS ETF EUR Hedged": ("CSPX.AS", "EUR"), # Amsterdam
-    "iShares Core FTSE 100 UCITS ETF": ("ISF.LSE", "GBP"), # London (Let op: in GBP!)
+    # "iShares Core FTSE 100 UCITS ETF": ("ISF.LSE", "GBP"), # London (Let op: in GBP!) - TIJDELIJK UITGESCHAKELD
     "iShares Core DAX UCITS ETF": ("EXS1.XETRA", "EUR"), # Xetra
     "Lyxor CAC 40 UCITS ETF": ("LYXCE.XPAR", "EUR"), # Paris
 }
